@@ -28,7 +28,7 @@ A powerful voice assistant built with Python, utilizing libraries like `speech_r
     ```
 
 3. **Download the microphone image** (Optional):
-    - Download a microphone image (e.g., from [here](https://www.flaticon.com/free-icon/microphone_2882831)) and save it in the project directory.
+    - Download a microphone image (e.g., from [here](microphone.png)) and save it in the project directory.
 
 4. **Run the application**:
     ```bash
